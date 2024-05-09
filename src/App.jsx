@@ -5,7 +5,7 @@ import { Canvas } from "@react-three/fiber";
 export const App = () => {
   const [speed, setSpeed] = useState(1);
   const [currSpeed, setCurrSpeed] = useState(1);
-  const [pause, setPause] = useState(false);
+  const [pause, setPause] = useState(true);
 
   const increaseSpeed = () => {
     setSpeed(speed + 1);
