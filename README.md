@@ -3,7 +3,7 @@
 A Website built using [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction), [three.js](https://threejs.org/), [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/) featuring the Solar System.
 
 ## Live Demo:
-[https://solar-system-coral.vercel.app/](https://solar-system-coral.vercel.app/)
+[https://solar-system.tusharin.com/](https://solar-system.tusharin.com/)
 
 ## User flow
 
